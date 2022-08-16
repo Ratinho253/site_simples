@@ -4,7 +4,7 @@
 }
 
 body{
-  
+    
     justify-content: center;
     align-items: center;
 }
@@ -36,6 +36,7 @@ main{
 .lista{
     font-size: larger;
     color: red;
+    text-align: center;
 }
 
 .copi{
