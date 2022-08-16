@@ -37,6 +37,14 @@ main{
     text-align: center;
 }
 
+.nome{
+    font-size: 30px;
+    text-align: center;
+    margin-block-end: 10px;
+
+}
+
+
 .copi{
     color: black;
    float: right;
